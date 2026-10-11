@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Tenda Router — English UI",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Forces the Tenda Mesh12X/MX12 (CN build) web UI to render in English, whatever address you reach it on. No firmware changes, no server.",
   "content_scripts": [
     {
